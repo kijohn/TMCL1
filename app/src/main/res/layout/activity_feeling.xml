@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    tools:context=".feeling">
+
+  <ImageView
+      android:id="@+id/imageView7"
+      android:layout_width="95dp"
+      android:layout_height="136dp"
+      android:layout_marginStart="72dp"
+      android:layout_marginLeft="72dp"
+      android:layout_marginTop="135dp"
+      android:layout_marginEnd="50dp"
+      android:layout_marginRight="50dp"
+      android:layout_marginBottom="136dp"
+      android:contentDescription="@string/community3"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toStartOf="@+id/scrollView28"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:srcCompat="@drawable/community1"
+      tools:ignore="UnknownId" />
+
+  <ImageView
+      android:id="@+id/imageView8"
+      android:layout_width="340dp"
+      android:layout_height="94dp"
+      android:layout_marginStart="288dp"
+      android:layout_marginLeft="288dp"
+      android:layout_marginTop="8dp"
+      android:layout_marginEnd="188dp"
+      android:layout_marginRight="188dp"
+      android:contentDescription="@string/feeling"
+      app:layout_constraintBottom_toTopOf="@+id/scrollView28"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:srcCompat="@drawable/feeling" />
+
+  <ScrollView
+      android:id="@+id/scrollView28"
+      android:layout_width="366dp"
+      android:layout_height="0dp"
+      android:layout_marginStart="50dp"
+      android:layout_marginLeft="50dp"
+      android:layout_marginEnd="174dp"
+      android:layout_marginRight="174dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toEndOf="@+id/imageView7"
+      app:layout_constraintTop_toBottomOf="@+id/imageView8">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+      <Button
+          android:id="@+id/button14"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/overwhelmed" />
+
+      <Button
+          android:id="@+id/button13"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/lonely" />
+
+      <Button
+          android:id="@+id/button11"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/jealousy" />
+
+      <Button
+          android:id="@+id/button10"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/vengeful_betrayed_angry" />
+
+      <Button
+          android:id="@+id/button9"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/feeling_useless" />
+
+      <Button
+          android:id="@+id/button8"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/self_doubt" />
+
+      <Button
+          android:id="@+id/button7"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/feeling_like_you_don_t_belong" />
+
+      <Button
+          android:id="@+id/button6"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/giving_up" />
+
+      <Button
+          android:id="@+id/button5"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/discouraged" />
+
+      <Button
+          android:id="@+id/button4"
+          android:layout_width="350dp"
+          android:layout_height="48dp"
+          android:background="@drawable/custom_button"
+          android:text="@string/depressed" />
+    </LinearLayout>
+  </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

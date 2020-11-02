@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58194095649",
+    "firebase_url": "https://the-mystery-called-life.firebaseio.com",
+    "project_id": "the-mystery-called-life",
+    "storage_bucket": "the-mystery-called-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58194095649:android:7b5862da7db48001137d60",
+        "android_client_info": {
+          "package_name": "com.tmcldev.TheMysteryCalledLife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58194095649-04jt77ufdeku97ame5qslkfjuj2k1cd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsqPPk58plJygYrGzWrz1_IVFxF_3fjiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58194095649-04jt77ufdeku97ame5qslkfjuj2k1cd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

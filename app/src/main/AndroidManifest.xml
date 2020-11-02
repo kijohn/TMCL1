@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.themysterycalledlife">
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".happiness1"
+            android:label="@string/title_activity_happiness1"></activity>
+        <activity android:name=".share" />
+        <activity android:name=".friends" />
+        <activity android:name=".purpose" />
+        <activity android:name=".change" />
+        <activity android:name=".believing" />
+        <activity android:name=".being_you" />
+        <activity android:name=".determination" />
+        <activity android:name=".failure" />
+        <activity android:name=".success" />
+        <activity android:name=".truth" />
+        <activity android:name=".goals" />
+        <activity android:name=".happiness" />
+        <activity android:name=".motivation" />
+        <activity android:name=".self_doubt" />
+        <activity android:name=".overwhelmed" />
+        <activity android:name=".lonely" />
+        <activity android:name=".jealousy" />
+        <activity android:name=".vengeful" />
+        <activity android:name=".feeling_useless" />
+        <activity android:name=".rejected" />
+        <activity android:name=".giving_up" />
+        <activity android:name=".discouraged" />
+        <activity android:name=".depressed" />
+        <activity android:name=".feeling" />
+        <activity android:name=".menu" />
+        <activity android:name=".intro" />
+        <activity android:name=".splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6654711919175662~2928557302" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

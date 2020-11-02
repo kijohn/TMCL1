@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    tools:context=".motivation">
+
+    <ImageView
+        android:id="@+id/imageView27"
+        android:layout_width="159dp"
+        android:layout_height="185dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="145dp"
+        android:layout_marginRight="145dp"
+        android:layout_marginBottom="595dp"
+        android:contentDescription="@string/community3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/community1"
+        tools:ignore="UnknownId" />
+
+    <ImageView
+        android:id="@+id/imageView32"
+        android:layout_width="370dp"
+        android:layout_height="161dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginLeft="41dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginRight="41dp"
+        android:layout_marginBottom="489dp"
+        android:contentDescription="@string/motivation"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView27"
+        app:srcCompat="@drawable/motivation" />
+
+    <ScrollView
+        android:layout_width="375dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32">
+
+        <LinearLayout
+            android:layout_width="370dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button26"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/happiness" />
+
+            <Button
+                android:id="@+id/button25"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/goals" />
+
+            <Button
+                android:id="@+id/button24"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/success" />
+
+            <Button
+                android:id="@+id/button23"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/failure" />
+
+            <Button
+                android:id="@+id/button22"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/determination" />
+
+            <Button
+                android:id="@+id/button21"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/being_you" />
+
+            <Button
+                android:id="@+id/button20"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/believing" />
+
+            <Button
+                android:id="@+id/button19"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/change" />
+
+            <Button
+                android:id="@+id/button18"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/purpose" />
+
+            <Button
+                android:id="@+id/button17"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/friends" />
+
+            <Button
+                android:id="@+id/button12"
+                android:layout_width="350dp"
+                android:layout_height="48dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/truth" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

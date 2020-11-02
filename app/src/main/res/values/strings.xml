@@ -1,0 +1,321 @@
+<resources xmlns:https="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">The Mystery Called Life</string>
+    <string name="community" tools:ignore="DuplicateDefinition">community</string>
+    <string name="the_mystery_called_life">The Mystery Called Life</string>
+    <string name="intro_text">introtext</string>
+    <string name="community2">community2</string>
+    <string name="community3">community3</string>
+    <string name="community1">community1</string>
+    <string name="we_often_question_ourselves_what_our_lives_are_really_about_and_as_we_go_on_with_this_journey_of_life_we_end_up_succumbing_to_different_circumstances_that_shape_our_thoughts_feelings_and_actions_sometimes_to_better_understand_ourselves_we_need_a_guiding_hand">We often question ourselves what our lives are really about and as we go on with this journey of life, we end up succumbing to different circumstances that shape our thoughts, feelings and actions. Sometimes to better understand ourselves, we need a guiding hand.</string>
+    <string name="proceed">Proceed</string>
+    <string name="community4">community4</string>
+    <string name="community5">community5</string>
+    <string name="need_help_with_a_situation_you_are_facing">Need help with a situation you are facing?</string>
+    <string name="need_some_positive_motivation">Need some positive motivation?</string>
+    <string name="feeling">feeling</string>
+    <string name="depressed">Depressed?</string>
+    <string name="discouraged">Discouraged?</string>
+    <string name="giving_up">Giving up?</string>
+    <string name="feeling_like_you_don_t_belong">Feeling like you don\'t belong?</string>
+    <string name="feeling_useless">Feeling useless?</string>
+    <string name="self_doubt">Self-doubt?</string>
+    <string name="vengeful_betrayed_angry">Vengeful, Betrayed, Angry?</string>
+    <string name="fearful">Fearful?</string>
+    <string name="lonely">Lonely?</string>
+    <string name="overwhelmed">Overwhelmed/Stressed?</string>
+    <string name="jealousy">Jealous?</string>
+    <string name="depression">depression</string>
+    <string name="this_is_a_state_that_keeps_us_in_a_low_mood_and_can_cause_changes_in_our_thoughts_behaviour_motivation_and_sense_of_well_being">This is a state that keeps us in a low mood and can cause changes in our thoughts, behaviour, motivation and sense of well-being.</string>
+    <string name="know_that_you_are_not_alone_in_this_fight_because_it_is_possible_to_be_free_from_depression">Know that you are not alone in this fight because it is possible to be free from depression.</string>
+    <string name="remember_that_you_are_loved_and_cared_for_whether_it_s_your_family_relatives_or_even_friends_even_if_you_receive_that_love_from_one_person">Remember that you are loved and cared for, whether it’s your family, relatives or even friends, even if you receive that love from one person.</string>
+    <string name="though_it_takes_courage_its_good_to_open_up_to_people_you_know_you_can_trust_sometimes_this_may_come_naturally_and_eventually_you_will_realize_that_you_have_overcome_depression_even_if_it_may_take_a_while">Though it takes courage, its good to open up to people you know you can trust. Sometimes this may come naturally and eventually you will realize that you have overcome depression even if it may take a while.</string>
+    <string name="and_once_you_are_able_to_do_this_you_can_connect_with_others_dealing_with_the_same_it_helps_most_of_the_time">And once you are able to do this, you can connect with others dealing with the same. It helps most of the time.</string>
+    <string name="there_is_no_need_to_store_up_feelings_of_depression_within_you_rise_up_today_and_engage_yourself_appropriately_in_battling_it">There is no need to store up feelings of depression within you. Rise up today and engage yourself appropriately in battling it.</string>
+    <string name="discouragement">discouragement</string>
+    <string name="sometimes_we_feel_that_nothing_is_right_and_won_t_get_any_better_these_are_the_moments_we_feel_the_strain_of_difficult_times_it_is_also_a_time_that_we_become_uncertain_of_our_future">Sometimes we feel that nothing is right and won’t get any better. These are the moments we feel the strain of difficult times. It is also a time that we become uncertain of our future.</string>
+    <string name="it_is_normal_to_feel_discouraged_but_that_doesn_t_mean_you_have_to_stay_in_this_state_for_long">It is normal to feel discouraged but that doesn’t mean you have to stay in this state for long.</string>
+    <string name="feeling_discouraged_tends_to_make_us_forget_that_we_still_have_the_support_of_our_friends_family_and_even_a_higher_power_god">Feeling discouraged tends to make us forget that we still have the support of our friends, family and even a Higher Power(God).</string>
+    <string name="sometimes_it_is_better_to_reach_out_to_them_for_they_could_be_a_source_of_renewed_strength_and_encouragement">Sometimes it is better to reach out to them for they could be a source of renewed strength and encouragement.</string>
+    <string name="helping">helping</string>
+    <string name="motivating">motivating</string>
+    <string name="linktodepression">
+        <a href="https://www.youtube.com/watch?v=Rv9SwZWVkOs">Conquering depression:How i became my own hero</a>
+    </string>
+    <string name="you_can_click_on_the_youtube_links_below">You can click on the youtube links below:</string>
+    <string name="linktodiscouraged">
+        <a href="https://www.youtube.com/watch?v=V3EucbqWS64">Watch this whenever you feel discouraged in life</a>
+    </string>
+    <string name="linktodiscouraged2">
+        <a href="https://www.youtube.com/watch?v=aXSrSwKTbtU">Feeling discouraged?</a>
+    </string>
+    <string name="given_up">given _up</string>
+    <string name="linktogiving_up">
+        <a href="https://www.youtube.com/watch?v=rwC3iruYlhQ">When you feel like giving up </a>
+    </string>
+    <string name="there_are_certain_things_in_life_that_are_out_of_our_control_because_of_this_we_carry_two_choices_either_to_give_up_or_to_keep_going">There are certain things in life that are out of our control. Because of this, we carry two choices- either to give up or to keep going.</string>
+    <string name="remember_it_s_not_the_end_the_fact_that_you_are_still_around_alive_should_be_able_to_give_you_a_reason_to_get_up_and_keep_going">Remember it’s not the end. The fact that you are still around- alive- should be able to give you a reason to get up and keep going.</string>
+    <string name="many_who_are_successful_today_failed_so_many_times_and_were_countlessly_on_the_verge_of_giving_up_however_they_didn_t_get_stopped_by_the_things_they_couldn_t_control_and_kept_going">Many who are successful today failed so many times and were countlessly on the verge of giving up. However, they didn’t get stopped by the things they couldn’t control and kept going.</string>
+    <string name="giving_up_is_a_wall_that_we_must_break_through_but_to_do_that_we_must_acknowledge_that_we_are_not_perfect_and_that_we_are_alive_and_can_still_do_so_much_more">Giving up is a wall that we must break through. But to do that, we must acknowledge that we are not perfect and that we are alive and can still do so much more.</string>
+    <string name="but_because_of_how_these_certain_things_whether_it_s_a_task_that_was_meant_to_be_accomplished_or_the_loss_of_something_or_someone_can_be_overwhelming_we_often_give_up">But because of how these certain things, whether it’s a task that was meant to be accomplished or the loss of something or someone, can be overwhelming, we often give up.</string>
+    <string name="rejection">rejection</string>
+    <string name="we_often_spend_our_time_with_our_friends_and_family_and_do_things_together_these_moments_add_value_to_our_lives_however_there_are_those_times_we_feel_like_we_don_t_belong">We often spend our time with our friends and family and do things together. These moments add value to our lives. However, there are those times we feel like we don’t belong.</string>
+    <string name="most_of_us_try_to_fit_in_and_when_we_don_t_succeed_in_this_we_feel_it_s_not_ok">Most of us try to fit in and when we don’t succeed in this, we feel it’s not OK.</string>
+    <string name="as_a_result_we_try_changing_who_we_are_to_become_copies_of_others_and_indulge_in_things_we_really_don_t_want">As a result, we try changing who we are to become copies of others and indulge in things we really don’t want.</string>
+    <string name="if_you_don_t_fit_in_it_doesn_t_matter_because_being_different_isn_t_a_bad_thing">If you don’t fit in, it doesn’t matter because being different isn’t a bad thing.</string>
+    <string name="just_create_your_own_path_where_you_do_what_you_love_because_by_doing_this_you_will_also_set_a_path_for_others_who_find_themselves_in_the_same_situation_but_are_yet_to_build_their_confidence_in_order_to_create_their_own_path">Just create your own path where you do what you love because by doing this you will also set a path for others who find themselves in the same situation but are yet to build their confidence in order to create their own path.</string>
+    <string name="linktorejected">
+    <a href="https://www.youtube.com/watch?v=9v5TMxekoTg">Ever feel like you do not belong? </a>
+    </string>
+    <string name="selfdoubt">selfdoubt</string>
+    <string name="linktoselfdoubt">
+    <a href="https://www.youtube.com/watch?v=E-t_i1rPTVI">Overcoming self-doubt </a>
+    </string>
+    <string name="linktoselfdoubt2">
+    <a href="https://www.youtube.com/watch?v=bVVNOvPzqpI&amp;pbjreload=101">If you are different be different </a>
+    </string>
+    <string name="feelinguseless">feelinguseless</string>
+    <string name="revenge">revenge</string>
+    <string name="jealous">jealous</string>
+    <string name="linktofeelinguseless">
+    <a href="https://www.youtube.com/watch?v=0Q36ExqtZrU">Feeling worthless? </a>
+    </string>
+    <string name="linktovengeance">
+    <a href="https://www.youtube.com/watch?v=3IKDdqMthdU">What to do with revenge, anger and betrayal </a>
+    </string>
+    <string name="linktovengeance2">
+    <a href="https://www.youtube.com/watch?v=vjpUqPXdo8E">The best revenge </a>
+    </string>
+    <string name="linktojealousy">
+    <a href="https://www.youtube.com/watch?v=1rcqwRgVvvw">Dealing with jealousy </a>
+    </string>
+    <string name="linktojealousy2">
+    <a href="https://www.youtube.com/watch?v=ouZtOA2obRw">The secret of slaying envy and jealousy </a>
+    </string>
+    <string name="when_we_question_ourselves_this_way_do_i_matter_am_i_worth_why_am_i_here_yet_i_am_doing_nothing_or_say_statements_like_my_contributions_are_nothing_am_useless_we_know_that_there_is_a_sense_of_uselessness_and_hopelessness_that_creeps_into_us">When we question ourselves this way- Do I matter? Am I worth? Why am I here yet I am doing nothing? - Or say statements like- my contributions are nothing, am useless- we know that there is a sense of uselessness and hopelessness that creeps into us.</string>
+    <string name="you_ought_to_know_that_everything_about_you_matters_even_the_small_things_that_no_one_notices">You ought to know that everything about you matters, even the small things that no one notices.</string>
+    <string name="there_is_a_reason_for_you_being_here_so_don_t_worry_about_not_feeling_useful_the_universe_is_big_and_that_means_that_there_will_always_be_something_that_you_will_find_yourself_being_useful">There is a reason for you being here so don’t worry about not feeling useful. The universe is big and that means that there will always be something that you will find yourself being useful.</string>
+    <string name="you_are_worth_it_and_there_is_so_much_more_you_can_contribute_life_itself_isn_t_perfect_because_it_is_full_of_trials_and_tribulations_and_finding_your_purpose_requires_that_you_take_a_journey_through_life">You are worth it and there is so much more you can contribute. Life itself isn’t perfect because it is full of trials and tribulations and finding your purpose requires that you take a journey through life.</string>
+    <string name="as_you_take_this_journey_you_may_even_find_others_like_you_in_the_same_situation_and_the_best_thing_you_can_do_is_to_also_lift_them_up_that_way_you_ll_also_get_to_understand_yourself_and_that_you_matter">As you take this journey, you may even find others like you in the same situation and the best thing you can do is to also lift them up. That way you’ll also get to understand yourself and that you matter.</string>
+    <string name="there_times_we_become_restless_with_anger_to_a_point_that_we_want_to_get_even_with_someone_or_something_in_order_to_restore_the_peace_that_our_lives_once_had">There times we become restless with anger to a point that we want to get even with someone or something in order to restore the peace that our lives once had.</string>
+    <string name="this_feeling_vengeance_mostly_occurs_when_we_experience_betrayal_of_some_sort">This feeling, vengeance, mostly occurs when we experience betrayal of some sort.</string>
+    <string name="vengeance_is_indeed_a_powerful_negative_emotion_that_can_lead_to_long_term_hatred_and_that_is_why_its_not_easy_to_get_rid_of_the_feeling">Vengeance is indeed a powerful negative emotion that can lead to long-term hatred and that is why its not easy to get rid of the feeling.</string>
+    <string name="remember_that_deep_down_that_you_have_to_accept_that_things_happen_and_cannot_be_rewritten_holding_a_grudge_within_you_does_not_build_you_because_it_arouses_negative_implications">Remember that deep down that you have to accept that things happen and cannot be rewritten. Holding a grudge within you does not build you because it arouses negative implications.</string>
+    <string name="you_need_to_learn_to_forgive_and_forget_to_let_go_and_move_on_its_true_to_say_that_this_takes_time_but_it_s_worth_more_than_bottling_up_feelings_vengeance_and_hatred_that_are_constantly_tearing_down_your_life_little_by_little">You need to learn to forgive and forget, to let go and move on. Its true to say that this takes time but it’s worth more than bottling up feelings, vengeance and hatred, that are constantly tearing down your life little by little.</string>
+    <string name="sometimes_we_end_up_feeling_insecure_around_others_and_develop_a_first_person_emotion_jealousy">Sometimes we end up feeling insecure around others and develop a first-person emotion- jealousy.</string>
+    <string name="jealousy_hinders_our_ability_to_empathise_with_others_and_gets_us_distracted_most_of_the_time_with_the_things_we_desire_the_most">Jealousy hinders our ability to empathise with others and gets us distracted most of the time with the things we desire the most.</string>
+    <string name="at_this_state_we_tend_to_think_a_lot_about_ourselves_so_we_have_to_learn_how_to_deal_with_it">At this state, we tend to think a lot about ourselves so we have to learn how to deal with it.</string>
+    <string name="it_is_indeed_normal_to_feel_jealous_towards_others_but_don_t_let_it_control_you">It is indeed normal to feel jealous towards others but don’t let it control you.</string>
+    <string name="in_order_to_avoid_the_clutches_of_jealousy_you_first_need_to_acknowledge_and_accept_that_you_are_jealous">In order to avoid the clutches of jealousy, you first need to acknowledge and accept that you are jealous.</string>
+    <string name="if_possible_communicate_with_the_person_you_felt_jealous_towards_tell_them_how_you_feel_show_some_degree_of_honesty_and_apologize_where_you_feel_you_are_wronged_them">If possible, communicate with the person you felt jealous towards. Tell them how you feel. Show some degree of honesty and apologize where you feel you are wronged them.</string>
+    <string name="alone">alone</string>
+    <string name="stressed">stressed</string>
+    <string name="linktolonely">
+    <a href="https://www.youtube.com/watch?v=vZT-bB66iIk">How to overcome loneliness </a>
+    </string>
+    <string name="linktolonely2">
+    <a href="https://www.youtube.com/watch?v=F3utpgoJaAk">The science of loneliness </a>
+    </string>
+    <string name="linktolonely3">
+    <a href="https://www.youtube.com/watch?v=_aRoLv-AOy0&amp;pbjreload=101">The science of loneliness(part2) </a>
+    </string>
+    <string name="linktolonely4">
+    <a href="https://www.youtube.com/watch?v=-gzPEV0xyTE">The science of loneliness(part3) </a>
+    </string>
+    <string name="linktostressed">
+    <a href="https://www.youtube.com/watch?v=9JjB99skEfQ">Identifying stress </a>
+    </string>
+    <string name="linktostressed2">
+    <a href="https://www.youtube.com/watch?v=ilO5vRJrCV8">Supporting another who is stressed </a>
+    </string>
+    <string name="some_of_our_day_to_day_activities_give_us_some_overwhelmed_feelings_that_make_us_wonder_how_we_can_go_on_or_how_bad_things_are_going_to_be_if_we_don_t_finish_the_task_delegated_to_us">Some of our day to day activities give us some overwhelmed feelings that make us wonder how we can go on or how bad things are going to be if we don’t finish the task delegated to us.</string>
+    <string name="most_people_in_this_situation_feel_like_not_opening_up_most_probably_because_they_don_t_want_to_bother_others_with_their_problems_however_it_sometimes_can_be_helpful_since_it_can_help_remove_some_weight_of_the_overwhelming_thoughts_of_stress_especially_with_someone_whom_you_feel_can_understand_you_better">Most people in this situation feel like not opening up most probably because they don’t want to bother others with their problems. However, it sometimes can be helpful since it can help remove some weight of the overwhelming thoughts of stress especially with someone whom you feel can understand you better.</string>
+    <string name="under_stress_we_are_normally_not_at_our_best">Under stress, we are normally not at our best.</string>
+    <string name="we_should_understand_that_we_are_all_flawed_and_some_cases_stress_becomes_the_norm">We should understand that we are all flawed and some cases, stress becomes the norm.</string>
+    <string name="we_should_identify_what_makes_us_feel_stressed_and_if_you_don_t_know_if_you_are_stressed_study_your_habits_to_see_if_they_have_changed">We should identify what makes us feel stressed and if you don’t know if you are stressed, study your habits to see if they have changed.</string>
+    <string name="once_you_have_done_this_move_to_ways_of_destressing_like_take_a_rest">Once you have done this, move to ways of destressing like take a rest.</string>
+    <string name="there_are_times_we_feel_that_we_are_not_connected_with_people_that_the_people_around_are_not_with_you_and_don_t_understand_you">There are times we feel that we are not connected with people, that the people around are not with you and don’t understand you.</string>
+    <string name="we_can_be_surrounded_by_people_we_know_yet_succumb_to_loneliness_this_is_mostly_the_case_due_to_the_quality_of_interactions_we_have_with_others">We can be surrounded by people we know yet succumb to loneliness. This is mostly the case due to the quality of interactions we have with others.</string>
+    <string name="it_is_normal_to_feel_lonely_since_we_never_get_a_perfect_interaction_with_others_however_when_loneliness_leads_to_feelings_of_depression_it_can_affect_you_both_mentally_and_physically">It is normal to feel lonely since we never get a perfect interaction with others. However, when loneliness leads to feelings of depression, it can affect you both mentally and physically.</string>
+    <string name="the_best_way_on_how_you_can_treat_your_loneliness_is_y_stepping_out_of_your_zone_and_go_meet_up_with_people_even_those_whom_you_see_everyday_and_you_rarely_talk_to_open_up_about_yourself_bit_by_bit_until_the_time_you_eventually_feel_comfortable_with_people">The best way on how you can treat your loneliness is y stepping out of your zone and go meet up with people even those whom you see everyday and you rarely talk to. Open up about yourself bit by bit until the time you eventually feel comfortable with people.</string>
+    <string name="it_s_not_easy_but_the_journey_to_treating_loneliness_is_worth_the_take">It’s not easy but the journey to treating loneliness is worth the take.</string>
+    <string name="doubt">doubt</string>
+    <string name="we_want_to_believe_in_ourselves_be_like_that_person_who_is_confident_in_life_but_our_state_of_self_doubt_prevents_us_from_being_that_person">We want to believe in ourselves, be like that person who is confident in life. But our state of self-doubt prevents us from being that person.</string>
+    <string name="its_good_to_know_that_you_are_worthy_and_are_vital_to_this_world_why_because_we_are_all_unique_in_our_own_ways_since_we_can_t_all_be_the_same_it_s_just_that_sometimes_we_can_t_see_our_importance">Its good to know that you are worthy and are vital to this world. Why? Because we are all unique in our own ways since we can’t all be the same. It’s just that sometimes we can’t see our importance.</string>
+    <string name="to_be_able_to_build_your_confidence_don_t_just_focus_on_what_you_are_not_because_if_you_do_it_ll_be_difficult_to_understand_yourself">To be able to build your confidence, don’t just focus on what you are not because if you do, it’ll be difficult to understand yourself.</string>
+    <string name="know_yourself_study_yourself_pay_attention_to_know_who_you_are_and_what_you_can_do_because_there_s_no_another_you">Know yourself, study yourself. Pay attention to know who you are and what you can do because there’s no another you.</string>
+    <string name="motivation">motivation</string>
+    <string name="happiness">Happiness</string>
+    <string name="goals">Goals</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="determination">Determination</string>
+    <string name="being_you">Being you</string>
+    <string name="believing">Believing</string>
+    <string name="change">Change</string>
+    <string name="purpose">Purpose</string>
+    <string name="friends">Friends</string>
+    <string name="truth">Truth</string>
+    <string name="honesty">honesty</string>
+    <string name="succeed">succeed</string>
+    <string name="doing">doing</string>
+    <string name="goal">goal</string>
+    <string name="friend">friend</string>
+    <string name="failing">failing</string>
+    <string name="believe">believe</string>
+    <string name="you">you</string>
+    <string name="changing">changing</string>
+    <string name="hardwork">hardwork</string>
+    <string name="happy">happy</string>
+    <string name="happiness_come_from_within_your_heart_and_not_your_surroundings">Happiness come from within your heart and not your surroundings.</string>
+    <string name="enthusiasm_is_the_fuel_of_life_it_helps_get_where_you_are_going">Enthusiasm is the fuel of life. It helps get where you are going.</string>
+    <string name="the_best_things_come_to_those_who_don_t_give_up">The best things come to those who don’t give up.</string>
+    <string name="no_matter_how_far_the_journey_keep_going">No matter how far the journey, keep going.</string>
+    <string name="whatever_your_goal_is_never_give_up_on_it_perseverance_is_the_key_that_will_lead_you_to_your_ultimate_achievement">Whatever your goal is, never give up on it. Perseverance is the key that will lead you to your ultimate achievement.</string>
+    <string name="grow_with_your_goal_no_matter_how_difficult_things_may_turn_out_to_be">Grow with your goal no matter how difficult things may turn out to be.</string>
+    <string name="at_times_life_feels_meaningless_and_too_hard_to_bear_the_question_that_starts_lingering_in_my_mind_is_is_there_any_meaning_to_life_but_we_must_never_give_up_about_our_strength_hopes_and_dreams_that_we_want_to_fulfil_then_it_is_up_to_us_to_fight_have_the_will_of_fire_and_resist_any_temptations_that_threatens_our_paths_to_our_goals_fight_till_the_end_for_your_goal">At times life feels meaningless and too hard to bear. The question that starts lingering in my mind is: ’Is there any meaning to life?’, but we must never give up about our strength, hopes and dreams that we want to fulfil. Then it is up to us to fight, have the will of fire and resist any temptations that threatens our paths to our goals. Fight till the end for your goal.</string>
+    <string name="it_is_easier_to_go_down_a_hill_than_to_go_up_a_hill_but_the_view_at_the_top_is_much_better_at_the_top">It is easier to go down a hill than to go up a hill but the view at the top is much better at the top.</string>
+    <string name="whatever_you_are_calling_impossible_today_may_just_need_a_matter_of_time_and_more_determination_to_become_a_case_study_for_others_to_draw_inspiration_from">Whatever you are calling impossible today may just need a matter of time and more determination to become a case study for others to draw inspiration from.</string>
+    <string name="textview">TextView</string>
+    <string name="it_is_only_when_you_see_life_clearly_that_you_can_define_your_limits_and_chose_to_go_beyond_them">It is only when you see life clearly that you can define your limits and chose to go beyond them.</string>
+    <string name="obstacles_don_t_have_to_stop_you_if_you_run_into_wall_don_t_turn_around_and_give_up_figure_out_how_to_climb_it_go_through_it_or_work_your_way_round_it">Obstacles don’t have to stop you. If you run into wall, don’t turn around and give up. Figure out how to climb it, go through it or work your way round it</string>
+    <string name="there_are_no_gains_without_any_pain">There are no gains without any pain.</string>
+    <string name="every_mountain_top_is_within_reach_if_you_just_keep_climbing">Every mountain top is within reach if you just keep climbing.</string>
+    <string name="you_will_never_know_what_you_can_conquer_until_you_push_yourself_beyond_the_impossible">You will never know what you can conquer until you push yourself beyond the impossible.</string>
+    <string name="no_matter_how_far_the_destination_of_your_journey_will_be_keep_walking_because_every_step_brings_you_closer_to_the_end_of_the_journey">No matter how far the destination of your journey will be, keep walking because every step brings you closer to the end of the journey.</string>
+    <string name="strive_to_be_stronger_than_yesterday_because_each_day_is_presented_with_its_own_opportunity">Strive to be stronger than yesterday because each day is presented with its own opportunity.</string>
+    <string name="keep_fighting_until_there_is_no_more_fighting_left_to_be_done_in_the_end">Keep fighting until there is no more fighting left to be done in the end - Clarke Munyao</string>
+    <string name="there_is_no_elevator_to_success_you_have_to_take_the_stairs">There is no elevator to success, you have to take the stairs.</string>
+    <string name="the_will_to_win_the_desire_to_succeed_the_urge_to_reach_your_full_potential_these_are_the_keys_that_will_unlock_the_door_to_personal_excellence">The will to win, the desire to succeed, the urge to reach your full potential…these are the keys that will unlock the door to personal excellence.</string>
+    <string name="there_is_so_much_to_be_done_today_yet_i_have_done_so_little">There is so much to be done today yet I have done so little.</string>
+    <string name="if_it_is_to_be_it_is_up_to_me_to_make_a_difference">If it is to be, it is up to me to make a difference.</string>
+    <string name="success_is_not_the_key_to_happiness_but_happiness_is_the_key_to_success_if_you_love_what_you_are_doing_you_will_be_successful">Success is not the key to happiness but happiness is the key to success: If you love what you are doing, you will be successful.</string>
+    <string name="if_you_want_to_be_successful_you_must_respect_one_rule_never_lie_to_yourself">If you want to be successful you must respect one rule-never lie to yourself.</string>
+    <string name="if_you_want_to_build_yourself_do_it_alone_if_you_want_to_achieve_yourself_do_it_with_god">If you want to build yourself, do it alone. If you want to achieve yourself, do it with God.</string>
+    <string name="opportunities_are_not_offered_they_are_wrestled_and_worked_for_this_calls_for_perseverance_and_courage">Opportunities are not offered, they are wrestled and worked for. This calls for perseverance and courage.</string>
+    <string name="when_you_ask_the_best_questions_of_yourself_and_others_you_invite_the_best_answers">When you ask the best questions of yourself and others, you invite the best answers.</string>
+    <string name="everyone_wants_to_go_to_heaven_but_no_one_wants_to_die_the_truth_is_imaginable">Everyone wants to go to heaven but no one wants to die. The truth is imaginable.</string>
+    <string name="the_true_mind_can_whether_all_lies_and_illusions_without_being_lost_the_true_heart_can_toughen_the_poison_of_hatred_without_being_harmed_since_the_beginning_of_time_darkness_thrives_in_the_void_but_always_yields_to_purify_light_seek_to_be_true_in_mind">The true mind can whether all lies and illusions without being lost. The true heart can toughen the poison of hatred without being harmed. Since the beginning of time, darkness thrives in the void but always yields to purify light. Seek to be true in mind.</string>
+    <string name="ambition_is_the_path_to_success_persistence_is_the_vehicle_you_arrive_in">Ambition is the path to success. Persistence is the vehicle you arrive in.</string>
+    <string name="you_may_have_to_fight_a_battle_more_than_once_to_win_it">You may have to fight a battle more than once to win it.</string>
+    <string name="success_is_not_final_failure_is_not_fatal_it_is_the_courage_to_continue_that_counts_winston_churchill">Success is not final; failure is not fatal: it is the courage to continue that counts. (Winston Churchill)</string>
+    <string name="sometimes_when_you_yourself_are_leaving_life_to_the_full_you_forget_elsewhere_also_continues_to_change_like_a_chameleon">Sometimes, when you yourself are leaving life to the full, you forget elsewhere also continues to change like a chameleon.</string>
+    <string name="every_cause_has_more_than_one_effect">Every cause has more than one effect.</string>
+    <string name="if_you_look_for_the_light_you_will_often_find_it_but_if_you_look_for_the_dark_that_is_what_you_will_always_see">If you look for the light, you will often find it but if you look for the dark that is what you will always see.</string>
+    <string name="words_have_no_power_to_impress_the_mind_without_the_exquisite_horror_of_their_reality">Words have no power to impress the mind without the exquisite horror of their reality.</string>
+    <string name="peace_only_holds_meaning_if_it_is_created_in_reality_a_peace_born_of_illusion_is_nothing_more_than_just_a_lie">Peace only holds meaning if it is created in reality. A peace born of illusion is nothing more than just a lie.</string>
+    <string name="people_live_their_lives_bound_by_what_is_right_and_true_based_by_their_reality">People live their lives bound by what is ‘right’ and ‘true’ based by their reality.</string>
+    <string name="never_stop_smiling_because_the_eyes_are_the_windows_to_your_soul_and_the_smile_is_the_door_to_your_heart">Never stop smiling, because the eyes are the windows to your soul and the smile is the door to your heart.</string>
+    <string name="you_are_the_engineer_of_your_life_you_are_the_ones_to_determine_the_building_blocks_upon_which_your_life_is_to_be_built_on">You are the engineer of your life. You are the ones to determine the building blocks upon which your life is to be built on.</string>
+    <string name="no_matter_how_much_it_hurts_now_some_day_you_will_look_back_and_realize_that_your_struggles_changed_your_life_for_the_better_and_find_happiness_again">No matter how much it hurts now, some day you will look back and realize that your struggles changed your life for the better and find happiness again.</string>
+    <string name="it_is_better_to_fail_in_originality_than_to_succeed_in_imitating_others">It is better to fail in originality than to succeed in imitating others - Mr.Mutei</string>
+    <string name="our_most_profitable_lessons_are_mostly_learned_from_failure">Our most profitable lessons are mostly learned from failure.</string>
+    <string name="the_most_crippling_failure_disease_is_excuses">The most crippling failure disease is EXCUSES.</string>
+    <string name="if_you_are_doing_your_best_you_will_not_have_to_worry_about_failure">If you are doing your best, you will not have to worry about failure.</string>
+    <string name="many_life_s_failure_are_people_who_did_not_realize_how_close_they_were_to_success_when_they_gave_up">Many life’s failure are people who did not realize how close they were to success when they gave up.</string>
+    <string name="success_is_a_wonderful_thing_but_don_t_underestimate_the_value_of_failure_failure_teaches_people_many_more_things_than_success_ever_can">Success is a wonderful thing but don’t underestimate the value of failure. Failure teaches people many more things than success ever can.</string>
+    <string name="the_greatest_failure_is_the_fear_to_begin">The greatest failure is the fear to begin.</string>
+    <string name="serious_minds_value_knowledge_and_excellence_but_joker_minds_don_t_the_world_and_beyond_is_vast_and_full_of_knowledge_as_humans_we_should_try_to_seek_out_some_of_this_knowledge_to_the_best_of_our_ability_in_order_to_survive_but_if_we_blankly_live_in_this_world_without_a_care_of_any_knowledge_about_it_we_become_a_joker_or_even_an_alien_to_our_world">Serious minds value knowledge and excellence but joker minds don’t. The world and beyond is vast and full of knowledge. As humans, we should try to seek out some of this knowledge to the best of our ability in order to survive. But if we blankly live in this world without a care of any knowledge about it, we become a joker or even an alien to our world.</string>
+    <string name="every_choice_you_make_has_consequences">Every choice you make has consequences.</string>
+    <string name="don_t_be_fooled_everyone_makes_mistakes_no_one_is_perfect">Don’t be fooled, everyone makes mistakes. No one is perfect.</string>
+    <string name="no_matter_how_big_the_will_is_there_will_always_be_a_way">No matter how big the will is, there will always be a way.</string>
+    <string name="a_pessimist_sees_difficulty_in_every_opportunity_while_an_optimist_sees_opportunity_in_every_difficulty">A pessimist sees difficulty in every opportunity while an optimist sees opportunity in every difficulty.</string>
+    <string name="it_has_never_been_and_never_will_be_easy_work_but_the_road_that_is_built_in_hope_is_more_pleasant_to_the_traveler_than_the_road_built_in_despair_even_though_they_both_lead_to_the_same_destination">It has never been and never will be easy work. But the road that is built in hope is more pleasant to the traveler than the road built in despair, even though they both lead to the same destination.</string>
+    <string name="god_gave_us_light_but_within_us_we_also_harbour_darkness_embrace_the_light_that_god_gave_us">God gave us light but within us we also harbour darkness. Embrace the light that God gave us.</string>
+    <string name="plan_for_your_future_because_that_is_where_you_can_spend_the_rest_of_your_life_and_believe_in_it_to_be_great_but_do_not_always_worry_about_the_troubles_of_the_future_for_you_cannot_hold_all_the_problems_of_the_world">Plan for your future because that is where you can spend the rest of your life and believe in it to be great. But do not always worry about the troubles of the future for you cannot hold all the problems of the world.</string>
+    <string name="yesterday_is_a_cancelled_cheque_tomorrow_is_a_promissory_note_but_the_present_is_the_real_cost_though_hard_forget_things_that_hold_you_in_your_past_it_is_the_rope_that_holds_back_your_progress_wield_the_time_of_now_and_believe_you_can_make_today_better">Yesterday is a cancelled cheque, tomorrow is a promissory note but the present is the real cost…though hard forget things that hold you in your past, it is the rope that holds back your progress. Wield the time of now and believe you can make today better.</string>
+    <string name="our_lives_are_driven_by_the_choices_we_make">Our lives are driven by the choices we make.</string>
+    <string name="the_greatest_obstacle_to_progress_is_lack_of_self_belief">The greatest obstacle to progress is lack of self-belief.</string>
+    <string name="happiness_keeps_you_sweet_trials_make_you_strong_sorrows_make_you_human_failure_keeps_you_humble_success_keeps_you_growing_and_god_keeps_you_going">Happiness keeps you sweet, trials make you strong, sorrows make you human, failure keeps you humble, success keeps you growing and God keeps you going.</string>
+    <string name="value_those_who_are_around_you_and_never_want_to_leave_your_side_for_they_know_something_about_you_that_you_don_t_know_that_may_be_a_requirement_for_you_to_grow_with_your_goal">Value those who are around you and never want to leave your side for they know something about you that you don’t know that may be a requirement for you to grow with your goal.</string>
+    <string name="love_all_trust_a_few_do_wrong_to_none">Love all, trust a few. Do wrong to none.</string>
+    <string name="united_we_stand_divided_we_fall">United we stand, divided we fall.</string>
+    <string name="for_in_nature_of_things_if_we_rightly_consider_every_person_is_far_more_glorious_being_themselves_than_being_others">For in nature of things, if we rightly consider, every person is far more glorious being themselves than being others.</string>
+    <string name="at_a_time_of_universal_deceit_telling_the_truth_is_a_revolutionary_act">At a time of universal deceit, telling the truth is a revolutionary act.</string>
+    <string name="do_you_wish_people_to_speak_well_of_you_if_yes_then_don_t_speak_well_of_yourself_even_up_to_a_point_of_bragging">Do you wish people to speak well of you? If yes, then don’t speak well of yourself even up to a point of bragging.</string>
+    <string name="no_matter_how_dark_it_will_be_there_will_always_be_light_a_light_that_signifies_hope_for_all_you_just_need_to_find_it">No matter how dark it will be, there will always be light, a light that signifies hope for all. You just need to find it.</string>
+    <string name="you_are_wise_man_today_if_you_learned_from_the_failures_of_the_past">You are wise man today if you learned from the failures of the past.</string>
+    <string name="it_doesn_t_matter_who_you_are_who_you_were_who_you_aren_t_or_who_you_weren_t_whatever_that_matter_is_where_you_are_going_aspire_to_do_your_best_and_strive_to_head_in_the_right_direction_learn_to_wield_the_power_of_now_so_that_even_if_there_is_no_tomorrow_today_you_did_your_best_you_could">It doesn’t matter who you are, who you were, who you aren’t or who you weren’t. Whatever that matter is where you are going. Aspire to do your best and strive to head in the right direction. Learn to wield the power of now so that even if there is no tomorrow, today you did your best you could.</string>
+    <string name="a_plan_is_a_real_thing_and_things_projected_are_experienced_a_plan_once_made_and_visualized_becomes_a_reality_along_with_other_realities_never_to_be_destroyed_but_easy_to_be_attacked">A plan is a real thing and things projected are experienced. A plan once made and visualized becomes a reality along with other realities never to be destroyed but easy to be attacked.</string>
+    <string name="no_one_should_make_you_inferior_without_your_consent">No one should make you inferior without your consent.</string>
+    <string name="the_value_of_life_is_not_in_its_duration_but_in_its_donation_you_are_not_important_because_of_how_important_you_are_but_because_of_how_effective_you_live">The value of life is not in its duration but in its donation. You are not important because of how important you are but because of how effective you live.</string>
+    <string name="sometimes_when_it_come_to_the_people_we_love_there_is_no_refuge_but_pain">Sometimes when it come to the people we love, there is no refuge but pain.</string>
+    <string name="too_many_people_undervalue_what_they_are_and_overvalue_what_they_are_not">Too many people undervalue what they are and overvalue what they are not.</string>
+    <string name="it_is_very_unfortunate_how_people_live_their_lives_according_to_other_people_s_opinion">It is very unfortunate how people live their lives according to other people’s opinion.</string>
+    <string name="growth_is_a_process_of_life_if_one_is_not_growing_then_there_is_a_problem_therefore_as_young_people_we_must_realize_that_growth_comes_with_responsibilities">Growth is a process of life. If one is not growing, then there is a problem. Therefore, as young people, we must realize that growth comes with responsibilities.</string>
+    <string name="sometimes_the_most_difficult_thing_to_do_is_the_most_important_thing_to_do_all_you_need_is_a_change_of_perspective">Sometimes the most difficult thing to do is the most important thing to do. All you need is a change of perspective.</string>
+    <string name="there_is_no_limit_to_how_far_you_can_go_if_you_are_sufficiently_inspired_just_believe_in_yourself">There is no limit to how far you can go if you are sufficiently inspired. Just believe in yourself.</string>
+    <string name="you_never_know_how_strong_you_are_until_being_strong_is_your_only_choice">You never know how strong you are until being strong is your only choice.</string>
+    <string name="it_is_really_unfortunate_how_we_are_mentally_socialized_from_childhood_to_believe_in_limits_that_are_not_real_believe_you_can_be_able_to_break_through_these_limits_and_stand_firm">It is really unfortunate how we are mentally socialized from childhood to believe in limits that are not real. Believe you can be able to break through these limits and stand firm.</string>
+    <string name="it_takes_nothing_to_join_the_crowd_but_it_takes_everything_to_stand_alone">It takes nothing to join the crowd but it takes everything to stand alone.</string>
+    <string name="no_one_remembers_you_for_standing_in_the_crowd_but_they_remember_you_for_standing_out_of_it">No one remembers you for standing in the crowd, but they remember you for standing out of it.</string>
+    <string name="belief_is_a_mental_state_but_faith_is_a_relationship_have_faith_in_god_and_also_in_yourself">Belief is a mental state but faith is a relationship. Have faith in God and also in yourself.</string>
+    <string name="faith_does_not_make_things_easy_but_possible">Faith does not make things easy but possible.</string>
+    <string name="it_is_okay_to_believe_in_something_so_strongly_that_you_cannot_be_discouraged">It is okay to believe in something so strongly that you cannot be discouraged.</string>
+    <string name="challenges_always_come_to_prepare_you_for_the_great_things_that_are_coming_your_way_so_get_ready_for_them">Challenges always come to prepare you for the great things that are coming your way so get ready for them.</string>
+    <string name="there_are_times_in_life_when_even_the_smallest_words_or_actions_are_infused_with_the_most_exquisite_meanings_these_are_one_of_those_moments_of_change_in_your_life">There are times in life when even the smallest words or actions are infused with the most exquisite meanings. These are one of those moments of change in your life.</string>
+    <string name="your_life_is_not_just_decided_by_fate_you_must_create_the_future_you_want_by_taking_the_right_actions_now">Your life is not just decided by fate, you must create the future you want by taking the right actions now.</string>
+    <string name="in_most_cases_character_is_who_you_are_when_you_are_under_pressure">In most cases, character is who you are when you are under pressure.</string>
+    <string name="life_welcomes_changes_with_open_arms_sometimes_it_welcomes_painful_ones_and_sometimes_it_welcomes_beautiful_ones_but_most_of_the_time_it_welcomes_both">Life welcomes changes with open arms, sometimes it welcomes painful ones and sometimes it welcomes beautiful ones, but most of the time it welcomes both.</string>
+    <string name="never_mistake_your_arrogance_for_confidence_and_then_let_your_ignorance_become_you">Never mistake your arrogance for confidence and then let your ignorance become you.</string>
+    <string name="good_decisions_come_from_experience_and_experiences_come_from_bad_decisions">Good decisions come from experience and experiences come from bad decisions.</string>
+    <string name="sometimes_we_need_to_be_hurt_in_order_to_grow_fail_in_order_to_know_lose_in_order_to_gain_some_lessons_are_best_learnt_through_pain_in_order_to_bring_a_significant_transformation_in_our_lives">Sometimes we need to be hurt in order to grow, fail in order to know, lose in order to gain. Some lessons are best learnt through pain in order to bring a significant transformation in our lives.</string>
+    <string name="limitations_live_only_in_our_minds_but_if_we_use_our_imaginations_possibilities_become_limitless">Limitations live only in our minds, but if we use our imaginations, possibilities become limitless.</string>
+    <string name="life_is_a_flash_of_beauty_when_used_for_the_right_purpose_but_life_is_a_shadow_seeking_the_darkness_when_used_for_an_astray_purpose_john_p_kinda">Life is a flash of beauty when used for the right purpose but life is a shadow seeking the darkness when used for an astray purpose. -John P.Kinda</string>
+    <string name="sometimes_life_is_a_thick_fog_for_us_not_to_see_what_lies_ahead_of_us_in_our_coming_future_but_in_spite_of_this_we_have_to_believe_in_the_coming_of_a_better_future">Sometimes life is a thick fog for us not to see what lies ahead of us in our coming future. But in spite of this, we have to believe in the coming of a better future.</string>
+    <string name="if_you_want_to_build_yourself_do_it_alone_if_you_want_to_achieve_yourself_do_it_with_god_bryan_calvin">If you want to build yourself, do it alone. If you want to achieve yourself, do it with God. -Bryan Calvin</string>
+    <string name="friends_talk_to_each_other_but_real_friends_listen">Friends talk to each other but real friends listen.</string>
+    <string name="even_though_we_don_t_realize_it_we_keep_our_friends_close_but_our_enemies_closer">Even though we don’t realize it, we keep our friends close but our enemies closer.</string>
+    <string name="i_am_a_slow_walker_but_never_walk_backwards_abraham_lincoln">I am a slow walker but never walk backwards - Abraham Lincoln</string>
+    <string name="seek_god_in_all_that_you_do_for_his_grace_is_boundless_and_marvelous_he_will_guide_you_in_your_steps_and_show_you_the_way">Seek God in all that you do for His grace is boundless and marvelous. He will guide you in your steps and show you the way.</string>
+    <string name="whenever_pride_seeks_to_take_over_because_you_fill_you_have_achieved_don_t_forget_where_you_came_from_who_assisted_you_and_why_you_achieved_just_humble_yourself_and_ask_the_almighty_to_take_the_prideful_thoughts_away_and_thank_him_for_he_has_done_for_you">Whenever pride seeks to take over because you fill you have achieved, don’t forget where you came from, who assisted you and why you achieved. Just humble yourself and ask the Almighty to take the prideful thoughts away and thank Him for He has done for you.</string>
+    <string name="a_vicious_cycle_is_a_cycle_in_which_a_problem_creates_more_problems_making_the_original_problems_worse_than_they_were_before_seek_to_not_be_part_of_the_vicious_cycle">A vicious cycle is a cycle in which a problem creates more problems making the original problems worse than they were before. Seek to not be part of the vicious cycle.</string>
+    <string name="life_is_like_an_elevator_on_your_way_up_you_sometimes_have_to_stop_to_let_some_people_off_in_order_to_continue_going_up">Life is like an elevator. On your way up you sometimes have to stop to let some people off in order to continue going up.</string>
+    <string name="future_generations_will_judge_us_not_by_what_we_say_but_by_what_we_do">Future generations will judge us not by what we say but by what we do.</string>
+    <string name="whatever_you_do_do_well_be_good_at_it_stand_a_little_taller_be_a_little_better">Whatever you do, do well. Be good at it. Stand a little taller. Be a little better.</string>
+    <string name="life_is_not_what_it_s_supposed_to_be_it_s_what_it_is_the_way_you_cope_with_it_is_what_makes_the_difference">Life is not what it’s supposed to be. It’s what it is. The way you cope with it is what makes the difference.</string>
+    <string name="people_know_what_they_do_frequently_they_know_what_they_do_but_they_don_t_know_what_they_do_does">People know what they do; frequently they know what they do, but they don’t know what they do does.</string>
+    <string name="believe_there_are_no_limits_then_fly_all_things_become_possible_when_we_truly_believe">Believe there are no limits then fly. All things become possible when we truly believe.</string>
+    <string name="you_only_live_once_so_enjoy_every_moment_in_your_life_and_create_colours_and_be_happy">You only live once so enjoy every moment in your life and create colours and be happy.</string>
+    <string name="consider_that_we_are_born_not_with_purpose_but_with_potential">Consider that we are born not with purpose but with potential.</string>
+    <string name="work_finally_begins_when_the_fear_of_doing_nothing_exceeds_the_fear_of_doing_it_badly">Work finally begins when the fear of doing nothing exceeds the fear of doing it badly.</string>
+    <string name="celebrate_the_cracks_because_that_is_how_the_light_comes_in">Celebrate the cracks because that is how the light comes in.</string>
+    <string name="exhaust_the_little_moment_soon_it_dies_and_be_it_gash_or_gold_it_will_not_come_again_in_this_identical_disguise">Exhaust the little moment. Soon it dies. And be it gash or gold, it will not come again in this identical disguise.</string>
+    <string name="when_we_are_pushed_to_our_lowest_points_we_become_open_to_the_greatest_change">When we are pushed to our lowest points, we become open to the greatest change.</string>
+    <string name="it_does_not_matter_what_life_gives_you_it_s_what_you_do_with_what_life_gives_you_that_makes_the_difference_the_choice_is_always_yours">It does not matter what life gives you. It’s what you do with what life gives you that makes the difference. The choice is always yours.</string>
+    <string name="destiny_is_a_funny_thing_you_never_know_how_things_are_going_to_work_out_but_if_you_keep_an_open_mind_and_an_open_heart_you_will_definitely_find_your_own_destiny_someday">Destiny is a funny thing. You never know how things are going to work out. But if you keep an open mind and an open heart, you will definitely find your own destiny someday.</string>
+    <string name="many_things_that_look_scary_in_the_dark_become_friendly_when_we_shine_a_light_on_them">Many things that look scary in the dark become friendly when we shine a light on them.</string>
+    <string name="our_children_may_learn_from_heroes_of_the_past_our_task_is_to_make_ourselves_the_architects_of_the_future_jomo_kenyatta">Our children may learn from heroes of the past. Our task is to make ourselves the architects of the future. - Jomo Kenyatta</string>
+    <string name="if_you_are_free_you_need_to_free_somebody_else_if_you_have_some_power_then_your_job_is_to_empower_somebody_else">If you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else.</string>
+    <string name="it_always_seems_impossible_until_it_s_done_nelson_mandela">It always seems impossible until it’s done - Nelson Mandela</string>
+    <string name="what_is_my_personal_drive_trying_to_make_a_difference_and_leaving_a_positive_footprint_robert_bob_collymore">What is my personal drive? Trying to make a difference and leaving a positive footprint - Robert Bob Collymore</string>
+    <string name="it_s_good_to_be_careful_but_sometimes_you_to_stop_being_scared_and_go_for_it_you_never_know_till_you_try">It’s good to be careful but sometimes you to stop being scared and go for it. You never know till you try.</string>
+    <string name="when_confronting_complex_equations_the_simplest_solution_is_most_often_the_correct_one">When confronting complex equations, the simplest solution is most often the correct one.</string>
+    <string name="today_is_tough_tomorrow_is_tougher_and_the_day_after_tomorrow_is_beautiful_but_most_people_die_tomorrow_evening_jack_ma">Today is tough, tomorrow is tougher and the day after tomorrow is beautiful but most people die tomorrow evening - Jack Ma</string>
+    <string name="life_isn_t_always_about_going_for_a_head_on_battle_you_sometimes_have_to_consider_the_sidelines">Life isn’t always about going for a head-on battle. You sometimes have to consider the sidelines.</string>
+    <string name="if_you_get_all_caught_up_with_the_things_right_in_front_of_you_you_may_lose_sight_of_what_is_important">If you get all caught up with the things right in front of you, you may lose sight of what is important.</string>
+    <string name="calm_your_mind_before_doing_something_if_you_observe_something_with_a_calm_mind_you_will_be_able_to_discern_the_important_things">Calm your mind before doing something. If you observe something with a calm mind, you will be able to discern the important things.</string>
+    <string name="one_of_the_deep_secrets_of_life_is_that_all_that_is_really_worth_the_doing_is_what_we_do_for_others">One of the deep secrets of life is that all that is really worth the doing is what we do for others.</string>
+    <string name="the_past_is_what_we_build_on_the_present_is_what_we_build_with_the_future_is_what_we_build_let_your_goals_be_in_honour_of_building_the_future">The past is what we build on. The present is what we build with. The future is what we build. Let your goals be in honour of building the future.</string>
+    <string name="the_measure_of_life_is_not_in_its_length_but_in_what_we_do_with_it_so_set_your_goals_right">The measure of life is not in its length, but in what we do with it. So set your goals right.</string>
+    <string name="write_your_sad_times_in_sand_and_your_good_times_in_stone_this_helps_in_cherishing_your_happy_moments_to_keep_you_happy">Write your sad times in sand and your good times in stone. This helps in cherishing your happy moments to keep you happy.</string>
+    <string name="happiness_makes_up_in_height_for_what_it_does_not_have_in_length">Happiness makes up in height for what it does not have in length.</string>
+    <string name="you_being_smart_is_you_understanding_quickly_but_your_ability_is_you_acting_well_on_the_thing_after_you_understand_it">You being smart is you understanding quickly; but your ability is you acting well on the thing after you understand it.</string>
+    <string name="the_hard_times_teach_us_more_than_the_easy_times_so_it_is_you_to_learn_from_the_difficult_times_that_come_your_way">The hard times teach us more than the easy times. So it is you to learn from the difficult times that come your way.</string>
+    <string name="the_hardest_truth_is_better_than_the_sweetest_words_that_are_not_true">The hardest truth is better than the sweetest words that are not true.</string>
+    <string name="show_ad">Show Ad</string>
+    <string name="banner_unit_ad">ca-app-pub-6654711919175662/9086540037</string>
+    <string name="if_yes">If Yes:</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+    <string name="smiling">smiling</string>
+    <string name="ads_by_google">Ads by Google</string>
+    <string name="sharing">sharing</string>
+    <string name="smile">smile</string>
+    <string name="sharing2">sharing2</string>
+    <string name="share">share</string>
+    <string name="the_mystery_called_life_keeps_you_smiling">The Mystery Called Life keeps you smiling.</string>
+    <string name="if_you_liked_using_the_mystery_called_life_share_it_with_family_and_friends">If you liked using The Mystery Called Life, share it with family and friends.</string>
+    <string name="title_activity_happiness1">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
